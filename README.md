@@ -4,7 +4,7 @@
 
 ###
 
-<h3>👩‍💻  About Me</h3>
+<h3>👩‍💻  About Me : </h3>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<h>🛠 Language and Tools</h3>
+<h3>🛠 Language and Tools : </h3>
 
 ###
 
@@ -50,20 +50,16 @@
 
 ###
 
-<h3>🔥   My Stats :</h3>
+<h3>🔥   My Stats : </h3>
 
-###
-
-<div>
-  <img src="https://streak-stats.demolab.com?user=ssksaan&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<img src="https://streak-stats.demolab.com?user=ssksaan&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" width="69%" alt="streak graph"  />
 
 ###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ssksaan/ssksaan/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ssksaan/ssksaan/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ssksaan/ssksaan/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ssksaan/ssksaan/output/github-snake.svg" width="100%" />
 </picture>
 
 ###
