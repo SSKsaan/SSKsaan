@@ -45,7 +45,10 @@ I'm an aspiring Backend Developer and a CS undergraduate from Bangladesh.
 
 <h3>🔥   My Stats : </h3>
 
-<img src="https://streak-stats.demolab.com?user=ssksaan&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" width="1000px" alt="streak graph"  />
+<div>
+  <img src="https://streak-stats.demolab.com?user=ssksaan&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" width="610px" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssksaan&locale=en&theme=react&layout=donut&hide_border=true&border_radius=5" width="390px" alt="top langs"  />
+</div>
 
 ###
 
