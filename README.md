@@ -1,18 +1,18 @@
 ###
 
-<h1>Hi, I'm Samin Sadik Khan (SSKsaan) 👋🏼</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BC+Welcome+to+my+Github+Profile;I'm+Samin+Sadik+Khan+(SSKsaan))](https://git.io/typing-svg)
 
 ###
 
 <h3>👩‍💻  About Me : </h3>
 
-###
+I'm an aspiring Backend Developer and a CS undergraduate from Bangladesh.
 
-<img align="right" height="150" src="https://media.giphy.com/media/KLFzCSOfW7AVKMlDJ5/giphy.gif"/>
+- 📚 I'm currently learning Django to build real-world projects
 
-###
+- 🧠 Former Competitive Programmer | CF Pupil | CC 3⭐ | ICPC regional participant
 
-<p>I'm an aspiring Backend Developer and a CS undergraduate from Bangladesh.<br><br>- 📚 I'm currently learning Django to build real-world projects<br>- ⚡ I like to create, that's why I'm here...</p>
+- ⚡ I like to create, that's why I'm here...
 
 ###
 
@@ -46,6 +46,8 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
 </div>
 
 ###
