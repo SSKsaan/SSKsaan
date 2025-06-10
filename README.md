@@ -10,9 +10,9 @@ I'm an aspiring Backend Developer and a CS undergraduate from Bangladesh.
 
 - 📚 I'm currently learning Django to build real-world projects
 
-- 🧠 Former Competitive Programmer | CF Pupil | CC 3⭐ | ICPC regional participant
+- 🧠 Former Competitive Programmer | Codeforces Pupil🟢 | CodeChef 3⭐
 
-- ⚡ I like to create, that's why I'm here...
+- 🔎 Eager to be a team player and learn more practical coding skills
 
 ###
 
@@ -22,31 +22,22 @@ I'm an aspiring Backend Developer and a CS undergraduate from Bangladesh.
 
 ###
 
-<h3>🛠 Language and Tools : </h3>
+<h3>🛠 Languages and Tools : </h3>
 
 ###
 
 <div>
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="clang logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
 </div>
 
@@ -54,14 +45,14 @@ I'm an aspiring Backend Developer and a CS undergraduate from Bangladesh.
 
 <h3>🔥   My Stats : </h3>
 
-<img src="https://streak-stats.demolab.com?user=ssksaan&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" width="69%" alt="streak graph"  />
+<img src="https://streak-stats.demolab.com?user=ssksaan&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" width="1000px" alt="streak graph"  />
 
 ###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ssksaan/ssksaan/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ssksaan/ssksaan/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ssksaan/ssksaan/output/github-snake.svg" width="100%" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ssksaan/ssksaan/output/github-snake.svg"  width="990px" />
 </picture>
 
 ###
