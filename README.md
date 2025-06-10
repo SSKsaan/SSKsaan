@@ -46,8 +46,8 @@ I'm an aspiring Backend Developer and a CS undergraduate from Bangladesh.
 <h3>🔥   My Stats : </h3>
 
 <div>
-  <img src="https://streak-stats.demolab.com?user=ssksaan&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" width="610px" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssksaan&locale=en&theme=react&layout=donut&hide_border=true&border_radius=5" width="390px" alt="top langs"  />
+  <img src="https://streak-stats.demolab.com?user=ssksaan&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" width="60%" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssksaan&locale=en&theme=react&layout=donut&hide_border=true&border_radius=5" width="38.5%" alt="top langs"  />
 </div>
 
 ###
@@ -55,7 +55,7 @@ I'm an aspiring Backend Developer and a CS undergraduate from Bangladesh.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ssksaan/ssksaan/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ssksaan/ssksaan/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ssksaan/ssksaan/output/github-snake.svg"  width="990px" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ssksaan/ssksaan/output/github-snake.svg"  width="99%" />
 </picture>
 
 ###
