@@ -18,14 +18,12 @@ I'm an aspiring Backend Developer and a CS undergraduate from Bangladesh.
 
 ![Connect with me](https://img.shields.io/badge/Connect_with_me:-black?labelColor=555555)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ssksaan)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saminsadikkhan@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saminsadikkhan@gmail.com) 
 
 ###
 
-<h3>🛠 Languages and Tools : </h3>
-
-###
-
+<hr>
+<h3>🛠 My Toolbox : </h3>
 <div>
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -36,22 +34,14 @@ I'm an aspiring Backend Developer and a CS undergraduate from Bangladesh.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql logo"  />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
 </div>
+<hr>
 
 ###
-
-<h3>🔥   My Stats : </h3>
-
-<div>
-  <img src="https://streak-stats.demolab.com?user=ssksaan&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" width="60%" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssksaan&locale=en&theme=react&layout=donut&hide_border=true&border_radius=5" width="38.5%" alt="top langs"  />
-</div>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ssksaan/ssksaan/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ssksaan/ssksaan/output/github-snake.svg" />
