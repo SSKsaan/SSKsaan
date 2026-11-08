@@ -69,7 +69,6 @@ I enjoy turning my ideas into working products and exploring different ways to b
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/canva/default.svg" height="48" alt="Canva logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="48" alt="notion logo" />
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/youtube-studio/default.svg" height="48" alt="YouTube logo" />
-  <img src="https://static.cdnlogo.com/logos/s/836/sslcommerz.svg" height="50" alt="SSLcommerz" />
 </div>
 <hr>
 
